@@ -1,0 +1,27 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "description": "Trying to build a webpack config from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash592/Webpack-Config.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yash592/Webpack-Config/issues"
+  },
+  "homepage": "https://github.com/yash592/Webpack-Config#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
