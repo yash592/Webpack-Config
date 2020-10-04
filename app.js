@@ -1,8 +1,13 @@
 import React from "react";
 
 const App = () => (
-  <div>
-    <Text>Helo from webpack config!</Text>
+  <div
+    style={{
+      display: "flex",
+      justifyContent: "center",
+    }}
+  >
+    <h1>Hello from webpack config!</h1>
   </div>
 );
 
